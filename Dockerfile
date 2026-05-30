@@ -1,7 +1,11 @@
-FROM python:3.13
+FROM python:3.13-slim
+
 WORKDIR /app
-COPY ..
-RUN pip install gunicorn
-RUN pip install -r requirements.txt
+
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt gunicorn
+
+COPY . .
+
 ENV PORT=80
 CMD exec gunicorn --bind :$PORT --workers 1 --threads 8 main:app
