@@ -1,4 +1,4 @@
-<p>
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="75" height="75" alt="Google Cloud"/>
 <img width="75" height="75" alt="cloudbuild" src="https://github.com/user-attachments/assets/5d526dfe-25e2-4a2d-bc0c-c45973e6a094" />
 <img width="75" height="75" alt="gcp-devops" src="https://github.com/user-attachments/assets/6872d0ce-ffd9-4b57-a6af-60c3c644a613" />
