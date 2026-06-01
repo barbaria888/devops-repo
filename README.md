@@ -1,16 +1,18 @@
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="75" height="75" alt="Google Cloud"/>
+<img width="75" height="75" alt="cloudbuild" src="https://github.com/user-attachments/assets/5d526dfe-25e2-4a2d-bc0c-c45973e6a094" />
+<img width="75" height="75" alt="gcp-devops" src="https://github.com/user-attachments/assets/6872d0ce-ffd9-4b57-a6af-60c3c644a613" />
+</p>
+
 # GCP CI/CD Pipeline for Python Web App
 
 ## Project Overview
 
 This repository contains a lightweight Python Flask web application demonstrating a modern Continuous Integration and Continuous Deployment (CI/CD) pipeline on Google Cloud Platform (GCP). The project showcases automated container image builds, secure artifact storage, and serverless/compute-based deployment strategies using Cloud Build and Artifact Registry.
+<br>
 
-
-<img src="https://gcpicons.com/icons/cloud_build.svg" width="50" height="50" alt="Google Cloud Build"/>
-<img src="https://svgmix.com/uploads/0f/7f/google-cloud-build.svg" width="50" height="50" alt="Google Cloud Build"/>
 
 ![Google Cloud Build](https://img.shields.io/badge/Google_Cloud-Build-4285F4?logo=googlecloud&logoColor=white)
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50" alt="Google Cloud"/>
 
 
 ---
