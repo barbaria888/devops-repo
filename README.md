@@ -12,8 +12,7 @@ This repository contains a lightweight Python Flask web application demonstratin
 <br>
 
 
-![Google Cloud Build](https://img.shields.io/badge/Google_Cloud-Build-4285F4?logo=googlecloud&logoColor=white)
-
+<a href="https://github.com/barbaria888/devops-repo/runs/78687579457">![Google Cloud Build](https://img.shields.io/badge/Google_Cloud-Build-4285F4?logo=googlecloud&logoColor=white)</a>
 
 ---
 
