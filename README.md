@@ -11,12 +11,14 @@
 This repository contains a lightweight Python Flask web application demonstrating a modern Continuous Integration and Continuous Deployment (CI/CD) pipeline on Google Cloud Platform (GCP). The project showcases automated container image builds, secure artifact storage, and serverless/compute-based deployment strategies using Cloud Build and Artifact Registry.
 <br>
 
+    
+<a href="https://github.com/barbaria888/devops-repo/runs/78687579457">![Google Cloud Build](https://img.shields.io/badge/Google_Cloud-Build-4285F4?logo=googlecloud&logoColor=white)</a>  [![Artifact Registry](https://img.shields.io/badge/GCP-Artifact_Registry-4285F4?logo=googlecloud&logoColor=white)](https://console.cloud.google.com/navigation-error;errorUrl=%2Fcloud-build%2Frepositories%2F2nd-gen%3Fproject%3D249181025376/permissions?project=249181025376)
 
-<a href="https://github.com/barbaria888/devops-repo/runs/78687579457">![Google Cloud Build](https://img.shields.io/badge/Google_Cloud-Build-4285F4?logo=googlecloud&logoColor=white)</a>
 
 ---
 
 ## Architecture & Tech Stack
+<img width="1536" height="1024" alt="clod-build" src="https://github.com/user-attachments/assets/68696100-e486-4b7a-b9d3-e84e3a7ef98c" />
 
 * **Application Framework:** Python 3.13, Flask, Gunicorn
 * **Source Control:** GitHub
